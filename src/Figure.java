@@ -14,7 +14,7 @@ class Figure {
         dim2 = b;
     }
     // подсчитываем и выводим площадь многоугольника
-    double area(){
+     double area(){
         System.out.println("Площадь фигуры не определена.");
         return 0;
     }
